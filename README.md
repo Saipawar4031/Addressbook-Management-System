@@ -97,10 +97,6 @@ Results found...
 - No encryption — contact data stored in plaintext
 - Windows/Linux compatibility — tested on both platforms
 
-## Author
-**Sai Dnyaneshwar Pawar**  
-Mechatronics Engineering Student | MMIT, Pune  
-Interested in Embedded Systems & VLSI
 
 ---
 
